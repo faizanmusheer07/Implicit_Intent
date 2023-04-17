@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Implicit_Intent</string>
+    <string name="textView">Implicit</string>
+    <string name="textView1">Implicit_2</string>
+</resources>
